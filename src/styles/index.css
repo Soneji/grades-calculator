@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+    margin: 2rem;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    padding: 0.5rem;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.box {
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.MuiGrid-container {
+    margin: 10px !important;
+}
