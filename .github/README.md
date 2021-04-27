@@ -1,8 +1,12 @@
-# Grade Calculator
+# Grades Calculator
+
+[Live Site!](https://grades-calculator.netlify.app/)
 
 A simple React app to calculate grades (especially for University Students).
 
 I created this because all the grade calculators online only worked for one module/assignment at a time. I wanted one place to see the grades I needed for all my modules and all my assignments.
+
+Also it uses localstorage to save the form state whenever you visit the site.
 
 ![](./screenshot.png)
 
