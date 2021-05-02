@@ -13,16 +13,10 @@ import { initial, oneModule } from "./helpers/initial";
 import { TopBar } from "./components/TopBar";
 import { AssignmentsForm } from "./components/AssignmentsForm";
 import { ModuleNameAndWeightForm } from "./components/ModuleNameAndWeightForm";
-import { Helmet } from "react-helmet";
-import { Title } from "@material-ui/icons";
 
 const App = () => {
     return (
         <div className="app">
-            <Helmet>
-                <Title>Grade Calculator</Title>
-                <meta name='description' content='A simple React app to calculate grades (especially for University Students).'/>
-            </Helmet>
             <Formik initialValues={initial} validationSchema={schema}>
                 {({ values, errors }) => (
                     <Form>
