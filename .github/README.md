@@ -1,6 +1,6 @@
 # Grades Calculator
 
-[Live Site!](https://grades-calculator.netlify.app/)
+## [Live Site Here!](https://grades-calculator.netlify.app/)
 
 A simple React app to calculate grades (especially for University Students).
 
