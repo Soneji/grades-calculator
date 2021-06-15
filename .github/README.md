@@ -2,6 +2,8 @@
 
 ## [Live Site Here!](https://grades-calculator.com/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43f32993-27da-4bfd-8e7e-d133a821a736/deploy-status)](https://app.netlify.com/sites/grades-calculator/deploys)
+
 A simple React app to calculate grades (especially for University Students).
 
 I created this because all the grade calculators online only worked for one module/assignment at a time. I wanted one place to see the grades I needed for all my modules and all my assignments.
